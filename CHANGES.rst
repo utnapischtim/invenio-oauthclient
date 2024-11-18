@@ -8,6 +8,10 @@
 Changes
 =======
 
+Version 4.1.1 (released 2024-11-19)
+
+- fix: compat for flask-oauthlib
+
 Version 4.1.0 (released 2024-11-07)
 
 - setup: remove upper pins oauthlib,requests-oauthlib
